@@ -1,3 +1,10 @@
+################################
+# Ugyen Namgay Phuntsho
+# Electrical Engineering, Year 1
+# 02230091
+################################
+
+#American Psychological Association. (2023). Python code for bank account management. Retrieved from GitHub Gist
 import os #The os module handles files, paths, processes, and environment variables. 
 import json #We import json to handle encoding and decoding JSON data. 
 import random #we import random to generate random numbers explicitly
